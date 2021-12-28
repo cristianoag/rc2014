@@ -27,6 +27,3 @@ According to Wikipedia, the Larson Scanner is named after Glen A. Larson, the ma
 This is a small random dice program for the RC2014 Digital IO board. Just go ahead and push any button on the board and a new random number will be generated and have its binary representation displayed using the board leds.
 - [STROBOSCOPICRANDOMNUMBERS_IO.BAS](https://github.com/cristianoag/rc2014/blob/main/Digital%20IO/STROBOSCOPICRANDOMNUMBERS_IO.BAS "STROBOSCOPICRANDOMNUMBERS_IO.BAS")
 This one is a variation of the RANDOMNUMBERS_IO program that generates a series of random numbers and display using the Digital IO board leds. It creates a kind of "stroboscopic" effect on the board for your delight. :)
-
-
-## Z80 ASSEMBLER
